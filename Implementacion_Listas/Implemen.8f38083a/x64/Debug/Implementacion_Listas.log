@@ -1,0 +1,5 @@
+﻿  Implementacion_Listas.cpp
+C:\Users\aleja\OneDrive\Documents\Implementacion_Listas\Implementacion_Listas.cpp(139,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Nodo.cpp
+  Generating Code...
+  Implementacion_Listas.vcxproj -> C:\Users\aleja\OneDrive\Documents\Implementacion_Listas\x64\Debug\Implementacion_Listas.exe

@@ -1,0 +1,4 @@
+﻿  Listas_doblemente_enlazadas.cpp
+C:\Users\aleja\OneDrive\Documents\Listas_doblemente_enlazadas\Listas_doblemente_enlazadas.cpp(169,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\aleja\OneDrive\Documents\Listas_doblemente_enlazadas\Listas_doblemente_enlazadas.cpp(86,1): warning C4715: 'eliminar': not all control paths return a value
+  Listas_doblemente_enlazadas.vcxproj -> C:\Users\aleja\OneDrive\Documents\Listas_doblemente_enlazadas\x64\Debug\Listas_doblemente_enlazadas.exe
