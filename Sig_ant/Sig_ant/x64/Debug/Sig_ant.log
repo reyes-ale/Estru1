@@ -1,0 +1,4 @@
+﻿  Sig_ant.cpp
+C:\Users\aleja\OneDrive\Documents\Sig_ant\Sig_ant.cpp(108,1): warning C4715: 'siguiente': not all control paths return a value
+C:\Users\aleja\OneDrive\Documents\Sig_ant\Sig_ant.cpp(179,1): warning C4715: 'anterior': not all control paths return a value
+  Sig_ant.vcxproj -> C:\Users\aleja\OneDrive\Documents\Sig_ant\x64\Debug\Sig_ant.exe
